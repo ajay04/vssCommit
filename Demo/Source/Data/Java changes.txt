@@ -1,5 +1,0 @@
-// java program for hello
-
-// Datamato
-
-// VSS migrartion
